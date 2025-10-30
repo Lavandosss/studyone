@@ -14,3 +14,4 @@ prices = [1, 5, 8, 9, 10, 17, 17, 20]
 value, lengths = cut_rod(n, prices)
 print("Max profit:", value)
 print("Length:", lengths)
+#good job
